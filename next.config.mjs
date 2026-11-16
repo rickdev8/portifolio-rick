@@ -4,7 +4,7 @@ const nextConfig = {
     remotePatterns: [{
       protocol: 'https',
       hostname: 'hebbkx1anhila5yf.public.blob.vercel-storage.com',
-      pathname: '/image-e0Qje6wP7fmXpgJlUmfGh127msVFIo.png',
+      pathname: '/**',
     }],
   },
   async headers() {
