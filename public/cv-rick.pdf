@@ -1,0 +1,109 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Length 3973 >>
+stream
+0.120 0.070 0.180 rg
+0 727 595 115 re f
+1.000 1.000 1.000 rg
+BT /F2 23.0 Tf 48.0 798.0 Td (Henrique Abade Lemos) Tj ET
+0.820 0.700 0.960 rg
+BT /F2 10.0 Tf 49.0 774.0 Td (RICK  |  DESENVOLVEDOR FULL STACK) Tj ET
+0.930 0.910 0.960 rg
+BT /F1 9.0 Tf 49.0 752.0 Td (Barra do Mendes, Bahia  |  21 anos  |  github.com/rickdev8) Tj ET
+0.780 0.750 0.810 rg
+BT /F1 8.5 Tf 49.0 736.0 Td (E-mail: [email]  |  LinkedIn: [link]) Tj ET
+0.430 0.250 0.670 rg
+BT /F2 9.0 Tf 48.0 701.0 Td (PERFIL) Tj ET
+0.84 0.81 0.87 RG 0.6 w 48 695 m 547 695 l S
+0.150 0.140 0.170 rg
+BT /F1 9.2 Tf 48.0 679.0 Td (Desenvolvedor full stack e estagiário de Desenvolvimento de Software na Redtech. Estudante de Análise e) Tj ET
+0.150 0.140 0.170 rg
+BT /F1 9.2 Tf 48.0 666.0 Td (Desenvolvimento de Sistemas no IFBA, com certificação AWS Cloud Practitioner. Experiência construindo software) Tj ET
+0.150 0.140 0.170 rg
+BT /F1 9.2 Tf 48.0 653.0 Td (para uso real, do desenvolvimento à publicação em produção.) Tj ET
+0.430 0.250 0.670 rg
+BT /F2 9.0 Tf 48.0 636.0 Td (EXPERIÊNCIA) Tj ET
+0.84 0.81 0.87 RG 0.6 w 48 630 m 547 630 l S
+0.150 0.140 0.170 rg
+BT /F2 10.0 Tf 48.0 614.0 Td (Estagiário de Desenvolvimento de Software  |  Redtech) Tj ET
+0.150 0.140 0.170 rg
+BT /F1 9.2 Tf 48.0 599.0 Td (Atuação no desenvolvimento e evolução de software. Participação em projetos de front-end, back-end e integração) Tj ET
+0.150 0.140 0.170 rg
+BT /F1 9.2 Tf 48.0 586.0 Td (de serviços.) Tj ET
+0.430 0.250 0.670 rg
+BT /F2 9.0 Tf 48.0 569.0 Td (FORMAÇÃO E CERTIFICAÇÕES) Tj ET
+0.84 0.81 0.87 RG 0.6 w 48 563 m 547 563 l S
+0.150 0.140 0.170 rg
+BT /F2 10.0 Tf 48.0 547.0 Td (Análise e Desenvolvimento de Sistemas  |  IFBA) Tj ET
+0.150 0.140 0.170 rg
+BT /F1 9.0 Tf 48.0 533.0 Td (Em andamento · previsão de conclusão: julho de 2028) Tj ET
+0.150 0.140 0.170 rg
+BT /F2 9.5 Tf 48.0 516.0 Td (AWS Certified Cloud Practitioner  |  Amazon Web Services) Tj ET
+0.430 0.250 0.670 rg
+BT /F2 9.0 Tf 48.0 496.0 Td (PROJETOS EM DESTAQUE) Tj ET
+0.84 0.81 0.87 RG 0.6 w 48 490 m 547 490 l S
+0.150 0.140 0.170 rg
+BT /F2 9.7 Tf 48.0 474.0 Td (Sistema de Estoque  |  Freelance · Em produção) Tj ET
+0.150 0.140 0.170 rg
+BT /F1 8.8 Tf 48.0 460.0 Td (Sistema vendido e usado por uma loja física real, hospedado em uma VPS Hostinger. Inclui dashboards, pagamentos) Tj ET
+0.150 0.140 0.170 rg
+BT /F1 8.8 Tf 48.0 448.5 Td (Pix com QR Code, leitura de QR Code e integração com a API ViaCEP.) Tj ET
+0.150 0.140 0.170 rg
+BT /F2 9.7 Tf 48.0 433.0 Td (SaúdeDela  |  Feira de ciências do IFBA) Tj ET
+0.150 0.140 0.170 rg
+BT /F1 8.8 Tf 48.0 419.0 Td (Plataforma sobre saúde da mulher com acompanhamento de ciclo e sintomas, insights de padrões, dashboard) Tj ET
+0.150 0.140 0.170 rg
+BT /F1 8.8 Tf 48.0 407.5 Td (estatístico e chatbot educativo com RAG baseado em fontes públicas.) Tj ET
+0.150 0.140 0.170 rg
+BT /F2 9.7 Tf 48.0 392.0 Td (Sistema Financeiro com IA  |  Em construção) Tj ET
+0.150 0.140 0.170 rg
+BT /F1 8.8 Tf 48.0 378.0 Td (Sistema para pequenas e médias empresas, desenvolvido do zero com arquitetura mais limpa. Prevê categorização) Tj ET
+0.150 0.140 0.170 rg
+BT /F1 8.8 Tf 48.0 366.5 Td (automática de transações e consultas financeiras em linguagem natural.) Tj ET
+0.430 0.250 0.670 rg
+BT /F2 9.0 Tf 48.0 351.0 Td (CONHECIMENTOS) Tj ET
+0.84 0.81 0.87 RG 0.6 w 48 345.0 m 547 345.0 l S
+0.150 0.140 0.170 rg
+BT /F1 8.8 Tf 48.0 329.0 Td (Frontend: TypeScript, React, Next.js App Router, Tailwind CSS, styled-components) Tj ET
+0.150 0.140 0.170 rg
+BT /F1 8.8 Tf 48.0 316.0 Td (Backend: Node.js, Fastify, Socket.io, JWT, bcrypt) Tj ET
+0.150 0.140 0.170 rg
+BT /F1 8.8 Tf 48.0 303.0 Td (Dados: PostgreSQL, MongoDB, Prisma ORM) Tj ET
+0.150 0.140 0.170 rg
+BT /F1 8.8 Tf 48.0 290.0 Td (Cloud e deploy: AWS, Vercel, Hostinger VPS, GitHub Actions) Tj ET
+0.150 0.140 0.170 rg
+BT /F1 8.8 Tf 48.0 277.0 Td (IA: integração de LLMs, RAG e chatbots em aplicações web) Tj ET
+0.150 0.140 0.170 rg
+BT /F1 8.8 Tf 48.0 264.0 Td (Fundamentos: C, Java e Python) Tj ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000257 00000 n 
+0000000354 00000 n 
+0000000456 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+4480
+%%EOF
