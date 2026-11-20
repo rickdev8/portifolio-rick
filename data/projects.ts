@@ -1,3 +1,8 @@
+export type ProjectImage = {
+  src: string
+  alt: string
+}
+
 export type Project = {
   number: string
   slug: string
@@ -9,6 +14,7 @@ export type Project = {
   live: string
   imageUrl: string
   imageAlt: string
+  gallery?: ProjectImage[]
   featured?: boolean
   status?: string
   worksNote?: string
@@ -26,8 +32,15 @@ export const projects: Project[] = [
     number: '01', slug: 'sistema-de-estoque', title: 'Sistema de Estoque', kind: 'Freelance · Em produção',
     description: 'Sistema vendido e usado por uma loja física real, em produção numa VPS Hostinger. Inclui dashboards, pagamentos Pix com QR Code, leitura de códigos e integração com ViaCEP.',
     stack: ['Fastify', 'Prisma', 'PostgreSQL', 'JWT', 'bcrypt'], featured: true, visual: 'retail',
-    imageUrl: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/1760222520300-_1_%20%281%29-9srtn50J2zaF1EDORyHES9TY2p8h2b.png',
-    imageAlt: 'Dashboard real do Sistema de Estoque com estatísticas de vendas, gráficos e produtos com baixo estoque.',
+    imageUrl: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-ZCk7hn8zJLtVaG7IHfyp5516fGKN0i.png',
+    imageAlt: 'Dashboard de estatísticas de vendas e estoque.',
+    gallery: [
+      { src: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-ZCk7hn8zJLtVaG7IHfyp5516fGKN0i.png', alt: 'Dashboard com estatísticas de vendas, custos e categorias de produtos.' },
+      { src: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-fo3JrfuyE7xavsPo0fmD3OA99aGLtd.png', alt: 'Tabela de produtos com filtros e informações de estoque.' },
+      { src: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-O2cFy4hjjGq7ZvrnGQt6cJt6Ib86Sp.png', alt: 'Lista de produtos e seus códigos de barras para impressão.' },
+      { src: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-AiVzQTnjyyp5hrFvBvwfCPQG49RO87.png', alt: 'Etapa de seleção de produtos no fluxo de criação de uma venda.' },
+      { src: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-vtyLz0I7W6hX6GUiDx6DsaJiv7ePNJ.png', alt: 'Etapa de revisão da venda com produtos, pagamento e total.' },
+    ],
     code: 'https://github.com/rickdev8', live: '[link]',
     details: {
       problem: 'Uma loja física precisava organizar sua operação de estoque e vendas com um sistema adequado à rotina do negócio.',
@@ -53,8 +66,15 @@ export const projects: Project[] = [
     number: '03', slug: 'sistema-financeiro-com-ia', title: 'Sistema Financeiro com IA', kind: 'Produto próprio · Em construção',
     description: 'Sistema financeiro para pequenas e médias empresas, construído do zero com uma arquitetura mais limpa. O objetivo é tornar a leitura e a organização financeira mais simples.',
     stack: ['Next.js', 'TypeScript', 'Node.js', 'IA', 'PostgreSQL'], visual: 'finance', status: 'Em construção',
-    imageUrl: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Design%20sem%20nome%20%285%29-jBPuXFPXGSUyagKnDZNaAuVZaeXrgM.png',
-    imageAlt: 'Dashboard real do sistema financeiro com gráficos e painel lateral de insights de IA.',
+    imageUrl: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-vnBevDrigOtaPpxQCfsUo0wZSDBiWU.png',
+    imageAlt: 'Dashboard financeiro com saldos, gráfico de receitas e painel de insights de IA.',
+    gallery: [
+      { src: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-vnBevDrigOtaPpxQCfsUo0wZSDBiWU.png', alt: 'Visão geral financeira com saldos, receitas, despesas e insights de IA.' },
+      { src: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-0arkHRdapUnmFiFsc80kp8Zg2MTvhJ.png', alt: 'Dashboard financeiro com transações recentes e distribuição de despesas.' },
+      { src: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-YgS8ZYVJFgWd1IDQPsXfe2hJUi5wEF.png', alt: 'Gráfico financeiro comparando receitas, despesas e saldo.' },
+      { src: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-mfeJGp8WVewZzLJNZnzpRQtYMVofvN.png', alt: 'Formulário para adicionar uma nova transação financeira.' },
+      { src: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-SoQTeSvgdK93nPswQtfrKR5gkaq1Rq.png', alt: 'Gráfico de linhas de receitas e despesas no painel financeiro.' },
+    ],
     code: '[link]', live: '[link]', worksNote: '[preencher]',
     details: {
       problem: 'Pequenas e médias empresas precisam acompanhar suas finanças sem tornar a categorização e a consulta aos dados uma tarefa difícil.',
