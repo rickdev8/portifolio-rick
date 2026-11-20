@@ -52,8 +52,16 @@ export const projects: Project[] = [
     number: '02', slug: 'saudedela', title: 'SaúdeDela', kind: 'Feira de ciências · IFBA',
     description: 'Plataforma sobre saúde da mulher criada para a feira de ciências “Ciência Delas”. Combina acompanhamento de ciclo, dados abertos e chatbot educativo com RAG.',
     stack: ['Next.js', 'TypeScript', 'RAG', 'LLMs', 'Dados abertos'], visual: 'health',
-    imageUrl: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-CllPaMA65E8dCw26DCKhdr2c5hPuYO.png',
-    imageAlt: 'Página real do SaúdeDela sobre informação e dados de saúde da mulher, com identidade visual rosa e vinho.',
+    imageUrl: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-cKkjvkKhNtd6if8P22gyop7ZslAwzd.png',
+    imageAlt: 'Página inicial do SaúdeDela com chamada para explorar dados e assistente sobre saúde da mulher.',
+    gallery: [
+      { src: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-cKkjvkKhNtd6if8P22gyop7ZslAwzd.png', alt: 'Página inicial do SaúdeDela com informação baseada em evidências e destaque para dados de prevenção.' },
+      { src: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-aPaxkhODLiGLNrA5MBWIzY3BgVMkIK.png', alt: 'Calendário pessoal para acompanhar o ciclo menstrual e visualizar previsões.' },
+      { src: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-i1BuMMfHPsLVCzjawCoShvZs8VKi3v.png', alt: 'Registro diário de humor, sintomas e nível de energia.' },
+      { src: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-ONRDWunwltzE00KlNcVAT6s488mGQ3.png', alt: 'Avaliação geral de saúde dividida em etapas para registrar sintomas e observações.' },
+      { src: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-9RMKrNi77BT3sNLDXU1yuklqGliuo3.png', alt: 'Assistente educativo SaúdeDela com respostas baseadas em fontes públicas.' },
+      { src: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-ox0nuPKboKUuRnmrW8eMUJ8p2MENU1.png', alt: 'Visão do código no editor e da página do SaúdeDela aberta no navegador durante o desenvolvimento.' },
+    ],
     code: '[link]', live: '[link]',
     details: {
       problem: 'Criar, para a feira de ciências do IFBA, uma experiência acessível sobre saúde da mulher, conectando informação educativa e dados públicos.',
